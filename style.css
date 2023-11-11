@@ -112,7 +112,8 @@ button{
 
 .parttwo .images [id="1"], [id="2"],  [id="3"],  [id="4"]{
     width: 17%;
-    border-radius: 25%;
+    border-radius: 8%;
+    border: 5px solid #3882F6;
 }
 
 .parttwo p{
