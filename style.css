@@ -116,8 +116,16 @@ button{
     border: 5px solid #3882F6;
 }
 
+.parttwo .image-text{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+   
+}
+
 .parttwo p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 
 .partthree {
