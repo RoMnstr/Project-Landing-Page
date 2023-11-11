@@ -46,8 +46,9 @@ flex-direction: column;
 
 .partone h1{
     font-size:48px;
-    font-weight: bolder;
+    font-weight: bold;
     color: #F9FAF8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 button{
