@@ -45,6 +45,11 @@ display: flex;
 
 }
 
+.text {
+ display: flex;
+ flex-direction: column;
+}
+
 #placeholder{
     width: 30px;
 }
