@@ -21,7 +21,7 @@ nav li{
     justify-content: space-around;
     align-items: center;
     padding: 10px;
-    margin: -15px 50px 85px -50px;
+    margin: -15px 50px 50px -50px;
     
 }
 
@@ -50,13 +50,19 @@ justify-content: space-between;
  flex-direction: column;
  justify-content: center;
  align-items: left;
- padding: 100px;
- width: 50%;
- margin: -7rem 10rem 0 0rem;
+ padding: 80px 0px 80px 80px;
+ width: 450%;
+ margin: -7rem 0rem 0 0rem;
 }
 
 #placeholder{
-    width: 30px;
+width: 45%;
+object-fit: cover;
+display: flex;
+justify-content: space-between;
+padding: 0px 50px 50px 10px;
+margin-top: 1rem;
+ 
 }
 .partone h1{
     font-size:48px;
@@ -76,11 +82,12 @@ button{
     color: #F9FAF8;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 1rem 28rem 0rem 0rem;
-    padding: 7px;
+    padding: 10px;
     border-radius: 8px;
     border: 2px solid #3882F6;
     font-size: 16px;
     font-weight: 800;
+    width: 100px;
 }
 
 .parttwo{
