@@ -71,6 +71,10 @@ button{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.parttwo p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .partthree {
     display: flex;
     flex-direction: column;
