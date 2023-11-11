@@ -51,6 +51,10 @@ flex-direction: column;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.partone p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 button{
     background-color: #3882F6;
     color: #F9FAF8;
