@@ -42,12 +42,17 @@ a:link {
 background-color:#1F2937;
 color: #F9FAF8;
 display: flex;
-
+justify-content: space-between;
 }
 
 .text {
  display: flex;
  flex-direction: column;
+ justify-content: center;
+ align-items: left;
+ padding: 100px;
+ width: 50%;
+ margin: -7rem 10rem 0 0rem;
 }
 
 #placeholder{
@@ -58,16 +63,19 @@ display: flex;
     font-weight: 950;
     color: #F9FAF8;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    flex-wrap: wrap;
 }
 
 .partone p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: -1rem 0rem 0rem 0rem;
 }
 
 button{
     background-color: #3882F6;
     color: #F9FAF8;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 1rem 30rem 0rem 0rem;
 }
 
 .parttwo{
