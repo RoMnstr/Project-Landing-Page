@@ -10,15 +10,15 @@ header {
     font-size: 24px;
     padding: 20px;
     font-weight: bold;
-    margin: 50px;
+    margin: -15px 50px 75px 100px;
 }
 
 nav li{
     display: inline-flex;
     justify-content: space-around;
     align-items: center;
-    padding: 10px;
-    margin: 5px;
+    padding: 30px;
+    margin: -15px 20px 75px -50px;
 }
 .headlink{
     font-size: 18px;
