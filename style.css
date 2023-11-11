@@ -79,6 +79,8 @@ button{
     padding: 7px;
     border-radius: 8px;
     border: 2px solid #3882F6;
+    font-size: 16px;
+    font-weight: 800;
 }
 
 .parttwo{
