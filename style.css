@@ -97,12 +97,14 @@ button{
 }
 .parttwo h2{
     font-size: 36px;
-    font-weight: 800;
+    font-weight: 1000;
     color:#1F2937;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display:flex;
     justify-content: center;
     align-items: center;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
 
 .parttwo .images{
@@ -125,9 +127,15 @@ button{
 
 .parttwo p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
+    display: flex;
+    align-items: center;
 }
 
+.parttwo .image-text [id="text-1"], [id="text-2"], [id="text-3"], [id="text-4"] {
+    margin: 10px 30px 100px 30px;
+    width: 45mm;
+    align-items: center;
+}
 .partthree {
     display: flex;
     flex-direction: column;
