@@ -41,8 +41,8 @@ a:link {
 .partone{
 background-color:#1F2937;
 color: #F9FAF8;
-display: flex;
-flex-direction: column;
+display: inline-flex;
+
 }
 
 #placeholder{
