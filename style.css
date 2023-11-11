@@ -121,6 +121,10 @@ button{
 .parttwo .images [id="3"]{
     width: 17%;
 }
+
+.parttwo .images [id="4"]{
+    width: 17%;
+}
 .parttwo p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
