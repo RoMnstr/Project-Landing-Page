@@ -97,9 +97,16 @@ button{
 }
 .parttwo h2{
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: 800;
     color:#1F2937;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parttwo .images{
+    display: flex;
 }
 
 .parttwo p{
