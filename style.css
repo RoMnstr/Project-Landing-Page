@@ -107,6 +107,7 @@ button{
 
 .parttwo .images{
     display: flex;
+    justify-content: space-around;
 }
 
 .parttwo p{
