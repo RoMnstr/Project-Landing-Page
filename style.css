@@ -3,6 +3,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
+    
 }
 
 .logo {
@@ -20,15 +21,19 @@ nav li{
     align-items: center;
     padding: 10px;
     margin: -15px 50px 85px -50px;
+    
 }
+
 .headlink{
     font-size: 18px;
     color: #E5E7EB;
     list-style: none;
+   
 }
 
 a:link {
     color:#E5E7EB; 
+    text-decoration: none;
 }
 
 .partone{
