@@ -92,6 +92,8 @@ button{
 
 .parttwo{
     display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }
 .parttwo h2{
     font-size: 36px;
