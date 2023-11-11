@@ -77,6 +77,8 @@ button{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 1rem 28rem 0rem 0rem;
     padding: 7px;
+    border-radius: 8px;
+    border: 2px solid #3882F6;
 }
 
 .parttwo{
