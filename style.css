@@ -110,21 +110,10 @@ button{
     justify-content: space-around;
 }
 
-.parttwo .images [id="1"]{
+.parttwo .images [id="1"], [id="2"],  [id="3"],  [id="4"]{
     width: 17%;
 }
 
-.parttwo .images [id="2"]{
-    width: 17%;
-}
-
-.parttwo .images [id="3"]{
-    width: 17%;
-}
-
-.parttwo .images [id="4"]{
-    width: 17%;
-}
 .parttwo p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
