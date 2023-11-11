@@ -75,7 +75,8 @@ button{
     background-color: #3882F6;
     color: #F9FAF8;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin: 1rem 30rem 0rem 0rem;
+    margin: 1rem 28rem 0rem 0rem;
+    padding: 7px;
 }
 
 .parttwo{
