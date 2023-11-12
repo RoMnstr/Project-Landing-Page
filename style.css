@@ -157,9 +157,8 @@ button{
 
 .footnote{
     display: flex;
-    align-items: flex-end;
     padding-bottom: 100px;
-    margin-left: auto;
+    margin-left: 800px;
    
 }
 .partfour {
