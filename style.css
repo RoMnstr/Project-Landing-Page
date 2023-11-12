@@ -169,6 +169,10 @@ button{
     justify-content: center;
     align-items: center;
     padding: 100px;
+    
+}
+
+.partfour .box{
     background-color: #3882F6;
 }
 
