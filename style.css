@@ -166,9 +166,13 @@ button{
 }
 .partfour {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
 }
 
 .partfour .box {
+    display: flex;
     background-color: #3882F6;
     color: #E5E7EB;
 }
