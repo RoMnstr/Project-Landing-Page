@@ -174,10 +174,11 @@ button{
 
 .partfour .box{
     background-color: #3882F6;
+    display: flex;
 }
 
 .partfour .box-text {
     display: flex;
-    
     color: #E5E7EB;
+    flex-direction: column;
 }
