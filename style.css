@@ -197,5 +197,6 @@ button{
     align-self: center;
     width: 100px;
     margin-right: 150px;
-   
+   border: 2px solid white;
+   border-radius: 10px;
 }
