@@ -10,7 +10,7 @@ header {
     color:#F9FAF8;
     display: inline-flex;
     font-size: 24px;
-    padding: 20px;
+    padding: 45px 0 0 0;
     font-weight: bold;
     margin: -15px 50px 75px 100px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -188,6 +188,7 @@ button{
     color: #E5E7EB;
     flex-direction: column;
     margin: 20px 0 20px 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .partfour .box-button {
