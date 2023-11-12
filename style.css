@@ -169,10 +169,11 @@ button{
     justify-content: center;
     align-items: center;
     padding: 100px;
+    background-color: #3882F6;
 }
 
-.partfour .box {
+.partfour .box-text {
     display: flex;
-    background-color: #3882F6;
+    
     color: #E5E7EB;
 }
