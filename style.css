@@ -192,11 +192,16 @@ button{
 
 .partfour .box-button {
     display: flex;
-    justify-content: center;
+    justify-self:center;
     flex-direction: column;
     align-self: center;
-    width: 100px;
+    width: 50px;
     margin-right: 150px;
-   border: 2px solid white;
+   
+  
+}
+
+.box-button button {
+border: 2px solid white;
    border-radius: 10px;
 }
